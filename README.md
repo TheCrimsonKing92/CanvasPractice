@@ -1,1 +1,1 @@
-Practice drawing game frames on a <canvas> element.
+Practice drawing game frames on a canvas element.
